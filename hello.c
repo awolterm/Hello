@@ -1,4 +1,4 @@
-/* Hack 1 Nickalus Davis & Amy Wolterman
+/* Hack 1 Amy Wolterman
 CSE 155E Sec 150
 Date: 01/16/2020
 */
@@ -10,10 +10,10 @@ Date: 01/16/2020
 int main (void) {
 
 //Executable code that displays text
-	printf("Nickalus Davis & Amy Wolterman\n");
+	printf("Amy Wolterman\n");
 
 //Executable code that displays Majors
-	printf("Mechanical Engineering & Mechanical Engineering\n");
+	printf("Mechanical Engineering\n");
 
 //End of function
 	return 0;
