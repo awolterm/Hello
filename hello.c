@@ -22,6 +22,12 @@ int main (void) {
 //Executable code that displays Majors
 	printf("Electrical Engineering\n");
 	
+//Executable code that displays name
+	printf("Nickalus Davis\n");
+
+//Executable code that displays majors
+	printf("Mechanical Engineering\n");
+	
 //End of function
 	return 0;
 }
